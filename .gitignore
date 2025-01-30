@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# from Quarto
+/.quarto/
+
+/_site/
+
+
 # Distribution / packaging
 .Python
 build/
